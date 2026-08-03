@@ -10,8 +10,6 @@ Je conçois des architectures d'intégration et de données —
 environnements ERP, flux ETL, synchronisations full & delta —
 de la modélisation au déploiement.
 
-$ ./status --check
-● disponible pour de nouveaux projets
 ```
 
 <img align="right" src="https://avatars.githubusercontent.com/u/51282539?v=4" width="120" style="border-radius:6px" alt="Anis AYOUDJ" />
@@ -21,7 +19,7 @@ user   : anis
 loc    : Île-de-France, FR
 uptime : 5+ ans d'expérience
 degree : Expert en Informatique & SI — EPSI
-focus  : Data & Integration Architecture
+focus  : Data & Integration Engineer
 ```
 
 <br clear="right"/>
